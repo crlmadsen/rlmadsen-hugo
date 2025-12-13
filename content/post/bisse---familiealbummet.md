@@ -1,5 +1,11 @@
-front = "+++"
-date = "2025-12-13"
-draft = true
-title = "Bisse - Familiealbummet"
-back = "+++"
+---
+title: Bisse - Familiealbummet
+draft: false
+---
+​
+
+![](media/static/images/317574-bisse-familiealbummet-LP-6932d10fe934c.jpg)
+
+**Yin & Yang**
+
+test
