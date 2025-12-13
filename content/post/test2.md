@@ -1,12 +1,7 @@
 ---
 draft: false
+front: +++
+back: +++
+title: we'll try again
 ---
-+++
-date = "2025-12-13"
-draft = true
-title = "test2"
-+++
-
-​
-
 test here
