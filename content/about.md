@@ -1,8 +1,8 @@
 ---
 title: About Hugo XMin
 author: Yihui Xie
+draft: true
 ---
-
 **XMin** is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the  [**blogdown**](https://github.com/rstudio/blogdown) book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal. In fact, this theme does not contain any JavaScript code at all, although on this example website I did introduce some JavaScript code (still relatively simple anyway). The theme does not contain any images, either, and is pretty much a plain-text theme.
 
 The theme name "XMin" can be interpreted as "**X**ie's **Min**imal theme" (Xie is my last name) or "e**X**tremely **Min**imal theme".
@@ -66,19 +66,14 @@ If you do not like the default fonts (e.g., `Palatino`), you may provide your ow
 
 ## Other features
 
-I could have added more features to this theme, but I decided not to, since I have no intention to make this theme feature-rich. However, I will teach you how. I have prepared several examples via pull requests at https://github.com/yihui/hugo-xmin/pulls, so that you can see the implementations of these features when you check out the diffs in the pull requests. For example, you can:
+I could have added more features to this theme, but I decided not to, since I have no intention to make this theme feature-rich. However, I will teach you how. I have prepared several examples via pull requests at [https://github.com/yihui/hugo-xmin/pulls](https://github.com/yihui/hugo-xmin/pulls), so that you can see the implementations of these features when you check out the diffs in the pull requests. For example, you can:
 
-- [Enable Google Analytics](https://github.com/yihui/hugo-xmin/pull/3)
-
-- [Enable Disqus comments](https://github.com/yihui/hugo-xmin/pull/4)
-
-- [Enable highlight.js for syntax highlighting of code blocks](https://github.com/yihui/hugo-xmin/pull/5)
-
-- [Display categories and tags on a page](https://github.com/yihui/hugo-xmin/pull/2)
-
-- [Add a table of contents](https://github.com/yihui/hugo-xmin/pull/7)
-
-- [Add a link in the footer of each page to "Edit this page" on Github](https://github.com/yihui/hugo-xmin/pull/6)
+* [Enable Google Analytics](https://github.com/yihui/hugo-xmin/pull/3)
+* [Enable Disqus comments](https://github.com/yihui/hugo-xmin/pull/4)
+* [Enable highlight.js for syntax highlighting of code blocks](https://github.com/yihui/hugo-xmin/pull/5)
+* [Display categories and tags on a page](https://github.com/yihui/hugo-xmin/pull/2)
+* [Add a table of contents](https://github.com/yihui/hugo-xmin/pull/7)
+* [Add a link in the footer of each page to "Edit this page" on Github](https://github.com/yihui/hugo-xmin/pull/6)
 
 To fully understand these examples, you have to read [the section on Hugo templates](https://bookdown.org/yihui/blogdown/templates.html) in the **blogdown** book.
 
@@ -92,8 +87,8 @@ After I finished this theme, I started to wonder why I'd need `normalize.css` at
 
 Compared to inconsistencies across browsers, I care much more about these properties of HTML elements:
 
-- Tables should always be centered, and striped tables are easier to read especially when they are wide. Tables should not have vertical borders.
-- An image should be centered if it is the only child element of a paragraph.
-- The `max-width` of images, videos, and iframes should be `100%`.
+* Tables should always be centered, and striped tables are easier to read especially when they are wide. Tables should not have vertical borders.
+* An image should be centered if it is the only child element of a paragraph.
+* The `max-width` of images, videos, and iframes should be `100%`.
 
 I hope you can enjoy this theme. The source code is [on Github](https://github.com/yihui/hugo-xmin). Happy hacking!
