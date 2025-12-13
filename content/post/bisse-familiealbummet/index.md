@@ -88,6 +88,7 @@ Virkelig sjot at sige det, og så bare lade det stå i så lang tid som han gør
 Rigtig god sang, god placering på albummet også.
 
 **_Fuldkomne dage_**
+
 Jeg er godt nok ikek lige fan af det kalver, det lyder lige lovligt mekanisk for mig.
 Den her sasng bryder jeg mig ikke så meget om. 
 Jeg vil dog være evigt imponeret over hvor fandens mange sange Bisse kan skrive, uden at have alt for mange der er helt til grin.
