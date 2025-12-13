@@ -23,6 +23,7 @@
       "label": "Title",
       "type": "string",
       "value": "",
+      "isRequired": false,
       "defaultValue": ""
     }
   ]
