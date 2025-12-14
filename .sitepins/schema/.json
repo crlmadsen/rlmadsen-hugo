@@ -1,0 +1,29 @@
+{
+  "file": "content/post-test.md",
+  "name": "content",
+  "fileType": "md",
+  "fmType": "toml",
+  "template": [
+    {
+      "name": "date",
+      "label": "Date",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "draft",
+      "label": "Draft",
+      "type": "boolean",
+      "value": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    }
+  ]
+}
