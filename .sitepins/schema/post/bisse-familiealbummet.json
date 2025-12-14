@@ -1,0 +1,29 @@
+{
+  "file": "content/post/bisse-familiealbummet/index.md",
+  "name": "bisse-familiealbummet",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "date",
+      "label": "Date",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "draft",
+      "label": "Draft",
+      "type": "boolean",
+      "value": false,
+      "defaultValue": ""
+    }
+  ]
+}
